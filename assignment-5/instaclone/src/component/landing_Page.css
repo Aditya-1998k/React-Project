@@ -1,0 +1,14 @@
+#main1{
+    height:100%;
+    width: 100%;
+}
+#img1, #text1{
+    display: block;
+    float: left;
+    width: 50%;
+}
+#text1{
+    text-align: center;
+    position: relative;
+    margin-top: 10%;
+}

@@ -1,0 +1,18 @@
+#main{
+    width: 170px;
+    border: 2px solid blue;
+}           
+#img{
+    margin: 2px;
+    height: 165px;
+    width: 150px;
+    border: 2px ridge lightcoral;
+    position: relative;
+    left: 4px;
+}
+#name{
+    color: blue;
+}
+p{
+    color: lightgrey;
+}

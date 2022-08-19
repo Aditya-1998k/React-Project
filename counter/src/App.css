@@ -1,0 +1,19 @@
+
+.counter{
+  text-align: center;
+  border: 20px solid black;
+  border-radius: 10px;
+  width: 60px;
+  position: relative;
+  left: 45%;
+  color: white;
+  background-color: black;
+}
+.incrementer,.decrementer{
+  margin: 10px;
+  position: relative;
+  left: 33%;
+  border: 10px solid green;
+  border-radius: 5px;
+  color: red;
+}

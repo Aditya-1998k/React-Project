@@ -1,0 +1,86 @@
+@media(min-width:1021px){
+  #red,#yellow,#blue{
+    width: 100vw;
+    height: 33vh;
+  }
+  #yellow1,#yellow2{
+      height: 90%;
+      width: 48vw;
+      display: block;
+      float: left;
+      background-color: yellow;
+      margin: 5px;
+  }
+  #red1{
+      height: 90%;
+      width: 97vw;
+      background-color: red;
+      display: block;
+  }
+  #blue1,#blue2,#blue3{
+    height: 90%;
+    width: 32vw;
+    background-color: blue;
+    display: block;
+    float: left;
+    margin: 5px;
+  }
+}
+
+@media (min-width:321px) and (max-width:768px){
+  #red,#yellow,#blue{
+    width: 100vw;
+    height: 33vh;
+  }
+  #yellow1,#yellow2{
+      height: 90%;
+      width: 47%;
+      display: block;
+      float: left;
+      background-color: yellow;
+      margin: 5px;
+  }
+  #red1{
+      height: 90%;
+      width: 98%;
+      background-color: red;
+      display: block;
+  }
+  #blue1,#blue2{
+    height: 48%;
+    width: 100%;
+    background-color: blue;
+    display: block;
+    float: left;
+    margin: 5px;
+  }
+}
+@media (max-width:320px){
+  #red,#yellow,#blue{
+    width: 100vw;
+    height: 33vh;
+  }
+  #yellow1,#yellow2{
+      height: 48%;
+      width: 98%;
+      display: block;
+      float: left;
+      background-color: yellow;
+      margin: 5px;
+  }
+  #red1{
+      height: 90%;
+      width: 98%;
+      background-color: red;
+      display: block;
+      margin: 5px;
+  }
+  #blue1,#blue2{
+    height: 48%;
+    width: 100%;
+    background-color: blue;
+    display: block;
+    float: left;
+    margin: 5px;
+  }
+}

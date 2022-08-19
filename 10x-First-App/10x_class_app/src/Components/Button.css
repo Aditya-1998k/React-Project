@@ -1,0 +1,20 @@
+
+.heading-normal{
+    color: white;
+    text-align: center;
+    border: 15px solid green;
+    background-color: black;
+    border-radius: 15px;
+}
+.heading-danger{
+    color: red;
+    text-align: center;
+    border: 15px solid red;
+    background-color: lightgrey;
+    border-radius: 15px;
+}
+#buton{
+    position: relative;
+    top: 30px;
+    left: 41%;
+}
